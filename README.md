@@ -1,7 +1,7 @@
 ## Olá!
 
 - 🔍 Futuro dev front-end
-- 🌱 Estudando HTML/CSS e futuramente JS
+- 🌱 Estudando HTML, CSS e JS.
 - 📫 E-mail: lucazcouto@gmail.com
 
 <div align="center">
