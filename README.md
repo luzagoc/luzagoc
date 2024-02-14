@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🔍 Futuro dev front-end
+- 🔍 Futuro dev full-stack
 - 🌱 Estudando HTML, CSS e JS.
 - 📫 E-mail: lucazcouto@gmail.com
 
