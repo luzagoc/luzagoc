@@ -1,8 +1,10 @@
 ## Olá!
 
-- 🔍 Futuro dev full-stack
-- 🌱 Estudando HTML, CSS e JS.
+- 🔍 Dev full-stack em formação.
+- 📖 Estudando Python e R.
+- 🌱 Linguagens: HTML, CSS, Javascript, PHP, Python e R.
 - 📫 E-mail: lucazcouto@gmail.com
+- 💡 LinkedIn: https://www.linkedin.com/in/lucazc/
 
 <div align="center">
   <a href="https://github.com/zago2006">
