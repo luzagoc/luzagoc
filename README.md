@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🔍 Dev full-stack em formação.
+- 🔍 Cientista de dados em formação.
 - 📖 Estudando Python e R.
 - 🌱 Linguagens: HTML, CSS, Javascript, PHP, Python e R.
 - 📫 E-mail: lucazcouto@gmail.com
