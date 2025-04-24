@@ -3,7 +3,7 @@
 - 🔍 Cientista de dados em formação.
 - 📖 Estudando Python e R.
 - 🌱 Linguagens gerais: HTML, CSS, Javascript, PHP, Python e R.
-- 📫 E-mail: lucazcouto@gmail.com
+- 📫 E-mail: zagocouto@gmail.com
 - 💡 LinkedIn: https://www.linkedin.com/in/lucazc/
 
 <div align="center">
