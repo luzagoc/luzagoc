@@ -6,7 +6,7 @@
 - 📫 E-mail: zagocouto@gmail.com
 - 💡 LinkedIn: https://www.linkedin.com/in/lucazc/
 
-<div>
+<div align="center">
   <a href="https://github.com/luzagoc">
     <img card_width="1000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzagoc&layout=compact&langs_count=7&theme=dark"/>
   </a>
