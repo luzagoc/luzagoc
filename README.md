@@ -8,6 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/luzagoc">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luzagoc&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&hide=prs,issues&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzagoc&layout=compact&langs_count=6&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luzagoc&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&hide=prs,issues&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzagoc&layout=compact&langs_count=6&theme=dark"/>
 </div>
