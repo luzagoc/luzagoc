@@ -8,6 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/luzagoc">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzagoc&layout=compact&langs_count=7&theme=dark"/>
+    <img card_width="600px" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzagoc&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
