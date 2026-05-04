@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🔍 Cursando Engenharia de Software.
+- 🔍 Cursando Engenharia de Software e Estatística.
 - 📖 Estudando Python e R.
 - 🌱 Linguagens gerais: HTML, CSS, Javascript, SQL, Python e R.
 - 📫 E-mail: zagocouto@gmail.com
