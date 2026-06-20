@@ -1,9 +1,8 @@
 ## Olá!
 
-- 🔍 Cursando Engenharia de Software e Estatística.
-- 🌱 Linguagens gerais: SQL, Python, R, C e Javascript.
-- 📫 E-mail: zagocouto@gmail.com
-- 💡 LinkedIn: https://www.linkedin.com/in/lucazc/
+- Linguagens gerais: SQL, Python, R, C e Javascript.
+- E-mail: zagocouto@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lucazc/
 
 <div align="center">
   <a href="https://github.com/luzagoc">
