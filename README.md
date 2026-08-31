@@ -1,5 +1,3 @@
-Olá! 👋
-
 Estudante de Estatística (UnB) e Engenharia de Software (UDF).
 
 ---
@@ -13,7 +11,7 @@ Estudante de Estatística (UnB) e Engenharia de Software (UDF).
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 *   **Linguagens:** Python, R, SQL, C, JavaScript
 *   **Bibliotecas de Dados & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib
@@ -21,7 +19,7 @@ Estudante de Estatística (UnB) e Engenharia de Software (UDF).
 
 ---
 
-### 📬 Contato
+### Contato
 
 *   **E-mail:** [zagocouto@gmail.com](mailto:zagocouto@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/lucazc](https://www.linkedin.com/in/lucazc/)
