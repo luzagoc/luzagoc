@@ -6,10 +6,5 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/luzagoc">
-    <img height="165em" src="https://github-readme-stats-eight.vercel.app/api?username=luzagoc&show_icons=true&locale=pt-br&theme=dark&hide_rank=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/luzagoc">
-    <img height="165em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=luzagoc&layout=compact&locale=pt-br&langs_count=6&theme=dark" alt="Linguagens Mais Usadas" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luzagoc&theme=react-dark" alt="Gráfico de Atividade" />
 </p>
