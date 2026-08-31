@@ -15,9 +15,9 @@ Estudante de Estatística (UnB) e Engenharia de Software (UDF).
 
 ### Tecnologias & Ferramentas
 
-*   **Linguagens:** Python, R, SQL, C, JavaScript
-*   **Bibliotecas de Dados & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib
-*   **Frameworks Web:** Django, Flask
+*   **Linguagens:** Python, R, SQL, C, C# e JavaScript.
+*   **Bibliotecas de Dados:** Pandas, NumPy, Scikit-Learn e Matplotlib.
+*   **Frameworks Web:** React, Django e Flask.
 
 ---
 
